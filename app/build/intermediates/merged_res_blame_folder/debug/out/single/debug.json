@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "app.swiftbills.app-merged_res-68:/drawable_ic_empty.xml.flat",
+        "source": "app.swiftbills.app-main-70:/drawable/ic_empty.xml"
+    },
+    {
+        "merged": "app.swiftbills.app-merged_res-68:/drawable_ic_taxes.xml.flat",
+        "source": "app.swiftbills.app-main-70:/drawable/ic_taxes.xml"
+    },
+    {
+        "merged": "app.swiftbills.app-merged_res-68:/font_poppins_medium.ttf.flat",
+        "source": "app.swiftbills.app-main-70:/font/poppins_medium.ttf"
+    },
+    {
+        "merged": "app.swiftbills.app-merged_res-68:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "app.swiftbills.app-main-70:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "app.swiftbills.app-merged_res-68:/drawable_ic_money.xml.flat",
+        "source": "app.swiftbills.app-main-70:/drawable/ic_money.xml"
+    },
+    {
+        "merged": "app.swiftbills.app-merged_res-68:/drawable_ic_customers.xml.flat",
+        "source": "app.swiftbills.app-main-70:/drawable/ic_customers.xml"
+    },
+    {
+        "merged": "app.swiftbills.app-merged_res-68:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "app.swiftbills.app-main-70:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "app.swiftbills.app-merged_res-68:/font_poppins_regular.ttf.flat",
+        "source": "app.swiftbills.app-main-70:/font/poppins_regular.ttf"
+    },
+    {
+        "merged": "app.swiftbills.app-merged_res-68:/drawable_ic_invoices.xml.flat",
+        "source": "app.swiftbills.app-main-70:/drawable/ic_invoices.xml"
+    },
+    {
+        "merged": "app.swiftbills.app-merged_res-68:/drawable_ic_launcher_background.xml.flat",
+        "source": "app.swiftbills.app-main-70:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "app.swiftbills.app-merged_res-68:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "app.swiftbills.app-main-70:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "app.swiftbills.app-merged_res-68:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "app.swiftbills.app-main-70:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "app.swiftbills.app-merged_res-68:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "app.swiftbills.app-main-70:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "app.swiftbills.app-merged_res-68:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "app.swiftbills.app-pngs-63:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "app.swiftbills.app-merged_res-68:/font_poppins_black.ttf.flat",
+        "source": "app.swiftbills.app-main-70:/font/poppins_black.ttf"
+    },
+    {
+        "merged": "app.swiftbills.app-merged_res-68:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "app.swiftbills.app-main-70:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "app.swiftbills.app-merged_res-68:/drawable_ic_person.xml.flat",
+        "source": "app.swiftbills.app-main-70:/drawable/ic_person.xml"
+    },
+    {
+        "merged": "app.swiftbills.app-merged_res-68:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "app.swiftbills.app-main-70:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "app.swiftbills.app-merged_res-68:/font_poppins_extra_bold.ttf.flat",
+        "source": "app.swiftbills.app-main-70:/font/poppins_extra_bold.ttf"
+    },
+    {
+        "merged": "app.swiftbills.app-merged_res-68:/drawable_ic_dashboard.xml.flat",
+        "source": "app.swiftbills.app-main-70:/drawable/ic_dashboard.xml"
+    },
+    {
+        "merged": "app.swiftbills.app-merged_res-68:/font_poppins_thin.ttf.flat",
+        "source": "app.swiftbills.app-main-70:/font/poppins_thin.ttf"
+    },
+    {
+        "merged": "app.swiftbills.app-merged_res-68:/xml_backup_rules.xml.flat",
+        "source": "app.swiftbills.app-main-70:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "app.swiftbills.app-merged_res-68:/drawable_ic_money_bag.xml.flat",
+        "source": "app.swiftbills.app-main-70:/drawable/ic_money_bag.xml"
+    },
+    {
+        "merged": "app.swiftbills.app-merged_res-68:/drawable_ic_my_businesses.xml.flat",
+        "source": "app.swiftbills.app-main-70:/drawable/ic_my_businesses.xml"
+    },
+    {
+        "merged": "app.swiftbills.app-merged_res-68:/drawable_ic_logout.xml.flat",
+        "source": "app.swiftbills.app-main-70:/drawable/ic_logout.xml"
+    },
+    {
+        "merged": "app.swiftbills.app-merged_res-68:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "app.swiftbills.app-main-70:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "app.swiftbills.app-merged_res-68:/font_poppins_light.ttf.flat",
+        "source": "app.swiftbills.app-main-70:/font/poppins_light.ttf"
+    },
+    {
+        "merged": "app.swiftbills.app-merged_res-68:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "app.swiftbills.app-main-70:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "app.swiftbills.app-merged_res-68:/xml_data_extraction_rules.xml.flat",
+        "source": "app.swiftbills.app-main-70:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "app.swiftbills.app-merged_res-68:/drawable_ic_placeholder.xml.flat",
+        "source": "app.swiftbills.app-main-70:/drawable/ic_placeholder.xml"
+    },
+    {
+        "merged": "app.swiftbills.app-merged_res-68:/drawable_ic_app_logo.png.flat",
+        "source": "app.swiftbills.app-main-70:/drawable/ic_app_logo.png"
+    },
+    {
+        "merged": "app.swiftbills.app-merged_res-68:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "app.swiftbills.app-main-70:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "app.swiftbills.app-merged_res-68:/font_poppins_bold.ttf.flat",
+        "source": "app.swiftbills.app-main-70:/font/poppins_bold.ttf"
+    },
+    {
+        "merged": "app.swiftbills.app-merged_res-68:/drawable_ic_invoice.xml.flat",
+        "source": "app.swiftbills.app-main-70:/drawable/ic_invoice.xml"
+    },
+    {
+        "merged": "app.swiftbills.app-merged_res-68:/font_poppins_italic.ttf.flat",
+        "source": "app.swiftbills.app-main-70:/font/poppins_italic.ttf"
+    }
+]

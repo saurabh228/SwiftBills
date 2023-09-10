@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "app.swiftbills.app-mergeDebugResources-66:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/home/bhalu/.gradle/caches/transforms-3/3660a51d7840adfdd8031ff46a7c1381/transformed/appcompat-1.4.2/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">63303653570</string>
+    <string name="google_api_key" translatable="false">AIzaSyAxJlgRBfodCk20AHQOdWb2Q4rHUbGe0cs</string>
+    <string name="google_app_id" translatable="false">1:63303653570:android:d01c40799108134faf835b</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAxJlgRBfodCk20AHQOdWb2Q4rHUbGe0cs</string>
+    <string name="google_storage_bucket" translatable="false">swiftbills-011.appspot.com</string>
+    <string name="project_id" translatable="false">swiftbills-011</string>
+</resources>
